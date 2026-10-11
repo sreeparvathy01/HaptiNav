@@ -1,2 +1,2 @@
 # HaptiNav
-A wearable device for visually imapaired to avoid obstacles"
+Wireless haptic navigation system for visually impaired individuals using ESP32, ultrasonic sensors
